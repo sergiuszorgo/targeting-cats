@@ -1,1 +1,3 @@
-# targeting-cats
+# Card hover effect
+
+Hover effect demo
